@@ -1,0 +1,7 @@
+﻿그룹ID,원본변수코드,범주,변수수
+F-C_경영선언,"Q16_1, Q16_2, Q16_3, Q16_4, Q16_5, Q16_6",Formal,6
+S-C_시스템보유,"Q16_7, Q16_9, Q16_11, Q16_13",Substantive,4
+S-C_참여응답,Q16_8,Substantive,1
+S-C_교육효과,Q16_10,Substantive,1
+S-C_규정효과,Q16_12,Substantive,1
+S-C_행동준수,"Q16_14, Q16_16, Q16_17, Q16_18",Substantive,4

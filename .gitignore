@@ -1,0 +1,14 @@
+# 원본 설문 microdata — 재배포 라이선스 문제로 제외 (제10차 산업안전보건 실태조사)
+data/raw/
+
+# Claude Code 로컬 설정 (작업물 아님)
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
